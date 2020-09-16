@@ -1,4 +1,4 @@
-##Ben's UDP Chat
+## Ben's UDP Chat
 This is a simple, peer-to-peer chat program for LAN networks, using
 UDP broadcast packets.
 
